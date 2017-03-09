@@ -1,0 +1,9 @@
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityAndGridviewExample.dll
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityAndGridviewExample.pdb
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityFramework.dll
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityFramework.SqlServer.dll
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityFramework.xml
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\bin\EntityFramework.SqlServer.xml
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\obj\Debug\EntityAndGridviewExample.csprojResolveAssemblyReference.cache
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\obj\Debug\EntityAndGridviewExample.dll
+c:\users\victorious\documents\visual studio 2010\Projects\EntityAndGridviewExample\EntityAndGridviewExample\obj\Debug\EntityAndGridviewExample.pdb

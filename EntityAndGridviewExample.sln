@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityAndGridviewExample", "EntityAndGridviewExample\EntityAndGridviewExample.csproj", "{2FB757F1-D0F6-4A76-9783-5967AE9DE1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB757F1-D0F6-4A76-9783-5967AE9DE1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB757F1-D0F6-4A76-9783-5967AE9DE1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB757F1-D0F6-4A76-9783-5967AE9DE1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB757F1-D0F6-4A76-9783-5967AE9DE1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
