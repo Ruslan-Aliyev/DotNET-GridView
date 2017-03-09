@@ -4,15 +4,15 @@ Nested GridViews as FrontEnd and EntityFramework as BackEnd</h3>
 					
 ## In Employees table 'ID' is the primary key & 'DepartmentId' is the foreign key. The general setup in the BackEnd should be like this:
 
-![](https://raw.githubusercontent.com/atabegruslan/DotNET-GridView/master/Illustrations/gv1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/DotNET-GridView/master/Illustrations/gv1.PNG)
 
 ## The general setup in the FrontEndEnd should be like this:
 
-![](https://raw.githubusercontent.com/atabegruslan/DotNET-GridView/master/Illustrations/gv3.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/DotNET-GridView/master/Illustrations/gv3.PNG)
 
 ## The result should be like this:
 
-![](https://raw.githubusercontent.com/atabegruslan/DotNET-GridView/master/Illustrations/gv2.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/DotNET-GridView/master/Illustrations/gv2.PNG)
 
 ## Steps:
 
